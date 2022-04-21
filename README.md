@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 - hobby: 🌟 Music 🌟 Delicious Food 🌟 Travel
 
 ### 🌈 Github Stats:
-<img src = "https://github-readme-stats.vercel.app/api?username=promonkeyli&theme=blueberry" style="width: 48%;"><img src = "https://github-readme-streak-stats.herokuapp.com?user=promonkeyli&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D" style="width: 48%">
-<img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=promonkeyli&theme=tokyonight" style="width: 100%;">
+<img src = "https://github-readme-stats.vercel.app/api?username=promonkeyli&theme=blueberry" style="width: 49%;"><img src = "https://github-readme-streak-stats.herokuapp.com?user=promonkeyli&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D" style="width: 49%">
+<img src = "http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=promonkeyli&theme=solarized_dark" style="width: 100%;">
 
 ### 📫 How to reach me:
 - :octocat: [github@young](https://github.com/promonkeyli)
