@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 
 ### 🌈 Github Stats:
 <img src = "https://github-readme-stats.vercel.app/api?username=promonkeyli&theme=blueberry" style="width: 50%;"><img src = "https://github-readme-streak-stats.herokuapp.com?user=promonkeyli&theme=vue-dark&date_format=M%20j%5B%2C%20Y%5D" style="width: 50%">
-<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=promonkeyli&theme=monokai">
-<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=promonkeyli&theme=nord_bright">
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=promonkeyli&theme=nord_bright" style:"width:100%">
 
 
 ### 📫 How to reach me:
