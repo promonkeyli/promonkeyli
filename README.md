@@ -12,5 +12,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<center>![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)</center>
+<div style:"display: flex; justify-content: center;">![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)</div>
 ### Hello ! 🌱 welcome to Young's GitHub HomePage ! 👋
