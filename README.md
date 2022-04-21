@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@promonkeyli?theme=rule34"></a><br>
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom🍀&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 
-### 🌱 Personal profile
-<h1>I'm Young</h1>
-<h2>front end development engineer from ChendDu,SiChuan,China</h2>
+### 🍀 Personal profile
+- nickName: Young 😄
+- occupation: front end development engineer
+- address: ChendDu,SiChuan,China
+- hobby: 🌟 Music 🌟 Delicious Food 🌟 Travel
 
 ### 🌈 Github Stats:
 <img src = "https://github-readme-stats.vercel.app/api?username=promonkeyli&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
