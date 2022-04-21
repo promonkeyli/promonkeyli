@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom🍀&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 
 ### 🍀 Personal profile
-- nickName: Young 😄
+- nickName: Young 🍃
 - occupation: front end development engineer
 - address: ChendDu,SiChuan,China
 - hobby: 🌟 Music 🌟 Delicious Food 🌟 Travel
