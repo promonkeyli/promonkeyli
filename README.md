@@ -18,14 +18,13 @@ Here are some ideas to get you started:
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Welcom🍀&width=1000&height=400)](https://github.com/Akshay090/svg-banners)
 
 ### 🌟 GitHub Visitors
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red) <a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@promonkeyli?theme=rule34"></a><br>
 
 ### 🌱 Personal profile
 <h1>I'm Young</h1>
 <h2>front end development engineer from ChendDu,SiChuan,China</h2>
 
 ### 🌈 Github Stats:
-<a href="https://count.getloli.com"><img align="center" src="https://count.getloli.com/get/@promonkeyli?theme=rule34"></a><br>
 <img src = "https://github-readme-stats.vercel.app/api?username=promonkeyli&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 <img src = "http://github-readme-streak-stats.herokuapp.com?user=promonkeyli&theme=dracula">
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=promonkeyli&theme=monokai">
