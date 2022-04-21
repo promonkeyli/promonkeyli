@@ -45,4 +45,4 @@ Here are some ideas to get you started:
 START_SECTION:activity
 1. 🍭 Write Articles on [Yueque](https://www.yuque.com/xihuanxiaorang/java) with [github](https://github.com/xihuanxiaorang/)
 2. 🍹 Study on [Bilibili](https://www.bilibili.com/)
-<!--END_SECTION:activity--> -->
+<!--END_SECTION:activity-->
