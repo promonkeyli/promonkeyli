@@ -25,23 +25,14 @@ Here are some ideas to get you started:
 - hobby: 🌟 Music 🌟 Delicious Food 🌟 Travel
 
 ### 🌈 Github Stats:
-<img src = "https://github-readme-stats.vercel.app/api?username=promonkeyli&theme=material-palenight">
+
+<img src = "https://github-readme-stats.vercel.app/api?username=promonkeyli&theme=material-palenight" style:"width: 50%">
 <img src = "http://github-readme-streak-stats.herokuapp.com?user=promonkeyli&theme=dracula">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=promonkeyli&theme=vue&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=promonkeyli&theme=monokai">
 
-<!-- ### 📫 How to reach me:
+### 📫 How to reach me:
 - :octocat: [github@xiaorang](https://github.com/xihuanxiaorang)
 - :email: [gmail@xiaorang](mailto:15019474951@gmail.com)
 - :tv: [bilibili@xiaorang](https://space.bilibili.com/307881917)
-- :bird: [yuque@xiaorang](https://www.yuque.com/xihuanxiaorang) -->
-
-
-<!-- | :pencil2: | :book:  |
-| --- | --- |
-| [Blogs](https://xihuanxiaorang.github.io/) | [Books](https://www.yuque.com/xihuanxiaorang/java) |
-
-### ⚡ Recent Activity
-START_SECTION:activity
-1. 🍭 Write Articles on [Yueque](https://www.yuque.com/xihuanxiaorang/java) with [github](https://github.com/xihuanxiaorang/)
-2. 🍹 Study on [Bilibili](https://www.bilibili.com/)
-<!--END_SECTION:activity-->
+- :bird: [yuque@xiaorang](https://www.yuque.com/xihuanxiaorang)
