@@ -26,8 +26,8 @@ Here are some ideas to get you started:
 
 ### 🌈 Github Stats:
 <img src = "https://github-readme-stats.vercel.app/api?username=promonkeyli&theme=material-palenight" style:"width: 40%">
-<img src = "http://github-readme-streak-stats.herokuapp.com?user=promonkeyli&theme=dracula" style:"width: 40%">
-<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=promonkeyli&theme=monokai" style:"width: 50%">
+<img src = "http://github-readme-streak-stats.herokuapp.com?user=promonkeyli&theme=dracula">
+<img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=promonkeyli&theme=monokai">
 
 ### 📫 How to reach me:
 - :octocat: [github@xiaorang](https://github.com/xihuanxiaorang)
