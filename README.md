@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ### 📫 How to reach me:
 - :octocat: [github@young](https://github.com/promonkeyli)
-- :email: [gmail@young](mailto:liyang_emial@163.com)
+- :email: [emial@young](mailto:liyang_emial@163.com)
 - :tv: [bilibili@young](https://space.bilibili.com/125441145)
 
 ### 🌈 Github Stats:
