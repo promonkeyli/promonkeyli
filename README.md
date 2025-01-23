@@ -19,10 +19,11 @@
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 <img align="center" width="400" src="https://streak-stats.demolab.com?user=promonkeyli&theme=dark" />
 <br/>
+ 
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img align="center" width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=promonkeyli&theme=github-compact&hide_border=true&area=true">
+<img align="center" width="600" src="https://github-readme-activity-graph.vercel.app/graph?username=promonkeyli&theme=github-compact&hide_border=true&area=true">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=promonkeyli&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<img align="center" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=promonkeyli&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
 <img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
