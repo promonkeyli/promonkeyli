@@ -1,8 +1,3 @@
-### 📫 How to reach me:
-- :octocat: [github@young](https://github.com/promonkeyli)
-- :email: [emial@young](mailto:liyang_emial@163.com)
-- :tv: [bilibili@young](https://space.bilibili.com/125441145)
-
 <!-- https://github.com/kyechan99/capsule-render -->
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Hi!%20Everyone&desc=I`m%20Young&descAlignY=57&fontAlign=50&fontAlignY=33">
