@@ -29,7 +29,15 @@
     </tr>
   </table>
 </div>
- 
+
+ <!-- 技能点 -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,vue,angular,nextjs,tailwind,reactivex,nginx,graphql,vite,docker,git,linux,go,mysql" />
+  </a>
+</p>
+
+ <!-- 社交icon -->
 <p align="center">
 <a href="https://github.com/promonkeyli"><img src="https://img.shields.io/badge/GitHub-promonkeyli-blue?logo=github" /></a>
 <a href="https://space.bilibili.com/125441145"><img src="https://img.shields.io/badge/哔哩哔哩-Young-pink?logo=bilibili" /></a>
