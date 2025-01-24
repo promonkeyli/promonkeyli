@@ -16,9 +16,9 @@
 <br/>
  
 <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
-<img align="center" width="600" src="https://github-readme-activity-graph.vercel.app/graph?username=promonkeyli&theme=github-compact&hide_border=true&area=true">
+<img align="center" width="600" height="400" src="https://github-readme-activity-graph.vercel.app/graph?username=promonkeyli&theme=github-compact&hide_border=true&area=true">
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-<img align="center" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=promonkeyli&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<img align="center" width="200" height="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=promonkeyli&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
 <br/>
 <!-- https://github.com/tandpfun/skill-icons -->
 <img width="800" align="center" src="https://skillicons.dev/icons?i=angular,css,docker,go,js,mysql,nextjs,nginx,nodejs,reactivex,react,tailwind,ts,vite,vue&theme=light" />
