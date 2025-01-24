@@ -8,6 +8,24 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+Github+profile+page+!" />
 </p>
 
+ <!-- 技能点 -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,vue,angular,nextjs,tailwind,reactivex,nginx,graphql,vite,docker,git,linux,go,mysql" />
+  </a>
+</p>
+
+ <!-- 社交icon -->
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=promonkeyli&abbreviated=true&color=green" />
+<a href="https://promonkeyli.top"><img src="https://img.shields.io/badge/Website-Young-red?logo=webtoon&logoColor=white" /></a>
+<a href="https://promonkeyli.github.io"><img src="https://img.shields.io/badge/Blog-Young-yellow?logo=hexo&logoColor=white" /></a>
+<a href="https://github.com/promonkeyli"><img src="https://img.shields.io/badge/GitHub-Young-blue?logo=github" /></a>
+<a href="https://space.bilibili.com/125441145"><img src="https://img.shields.io/badge/哔哩哔哩-Young-9093fd?logo=bilibili" /></a>
+<a href="mailto:liyang_email@163.com"> <img src="https://img.shields.io/badge/Email-163-red?logo=gmail&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/QQ-1334761537-green?logo=qq" />
+</p>
+
 <!-- Github 信息 统计类图表 -->
 <div align="center">
   <table style="width:100%;">
@@ -29,21 +47,3 @@
     </tr>
   </table>
 </div>
-
- <!-- 技能点 -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,react,vue,angular,nextjs,tailwind,reactivex,nginx,graphql,vite,docker,git,linux,go,mysql" />
-  </a>
-</p>
-
- <!-- 社交icon -->
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=promonkeyli&abbreviated=true&color=green" />
-<a href="https://promonkeyli.top"><img src="https://img.shields.io/badge/Website-Young-red?logo=webtoon&logoColor=white" /></a>
-<a href="https://promonkeyli.github.io"><img src="https://img.shields.io/badge/Blog-Young-yellow?logo=hexo&logoColor=white" /></a>
-<a href="https://github.com/promonkeyli"><img src="https://img.shields.io/badge/GitHub-Young-blue?logo=github" /></a>
-<a href="https://space.bilibili.com/125441145"><img src="https://img.shields.io/badge/哔哩哔哩-Young-9093fd?logo=bilibili" /></a>
-<a href="mailto:liyang_email@163.com"> <img src="https://img.shields.io/badge/Email-163-red?logo=gmail&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/QQ-1334761537-green?logo=qq" />
-</p>
