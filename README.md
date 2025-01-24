@@ -39,9 +39,9 @@
 
  <!-- 社交icon -->
 <p align="center">
+<img src="https://komarev.com/ghpvc/?username=promonkeyli&abbreviated=true&color=green" />
 <a href="https://github.com/promonkeyli"><img src="https://img.shields.io/badge/GitHub-promonkeyli-blue?logo=github" /></a>
 <a href="https://space.bilibili.com/125441145"><img src="https://img.shields.io/badge/哔哩哔哩-Young-pink?logo=bilibili" /></a>
 <img src="https://img.shields.io/badge/QQ-1334761537-green?logo=tencentqq" />
-<img src="https://komarev.com/ghpvc/?username=promonkeyli&abbreviated=true&color=yellow" />
-<img href="mailto:liyang_email@163.com" src="https://img.shields.io/badge/xenon4065@gmail.com-D14836?logo=gmail&logoColor=white" />
+<img href="mailto:liyang_email@163.com" src="https://img.shields.io/badge/liyang_email@163.com-D14836?logo=gmail&logoColor=white" />
 </p>
